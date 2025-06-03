@@ -1,0 +1,15 @@
+* {
+   text-align: center;
+   margin: 0.5em auto;
+}
+
+main {
+   width: 50vw;
+   max-width: 500px;
+}
+
+input, button, div {
+   display: block;
+   height: 2em;
+   width: 80%;
+}
